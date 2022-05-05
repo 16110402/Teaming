@@ -30,7 +30,7 @@ echo '<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <a class="nav-link" href="team.php">makeTeam</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="./cricketTrainy/index.php">Training</a>
+        <a class="nav-link" href="./index1.php">Training</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="contact.php">Contact</a>
